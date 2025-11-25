@@ -77,6 +77,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+data/processed/creditcard.csv
 
 # IPython
 profile_default/
